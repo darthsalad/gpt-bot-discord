@@ -1,0 +1,17 @@
+{
+  "name": "gpt-bot-discord",
+  "version": "1.0.0",
+  "description": "discord bot for chat-gpt unofficial wrapper",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "author": "DarthSalad",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}
